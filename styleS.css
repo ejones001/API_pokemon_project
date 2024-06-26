@@ -1,0 +1,30 @@
+/* styleS.css */
+
+/* Additional styles specific to pokemon-search.html */
+
+#pokemon-details {
+    margin-top: 20px;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+form .form-group {
+    margin-bottom: 10px;
+}
+
+form label {
+    font-weight: bold;
+}
+
+form input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+}
+
+form button {
+    padding: 10px 20px;
+    font-size: 16px;
+}
